@@ -1,25 +1,18 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Jing Zhang"
+date = "2022-04-15"
+aliases = ["about-us", "about-me", "contact"]
+author = "Jing Zhang"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I am currently a Master student concentrating in Data Analytics along with a Bachelor of Science degree in Operational Research and Information Engineering from Cornell University. My professional interests lies with the areas of data analytics, programming, and optimization. Lastly, I hope to obtain an full time analyst opportunity in order to enhance my experience in the financial, analytical, and software fields. I am proficient in languages and technologies such as: Python (Pandas, NumPy, Scikit-learn, SciPy, Matplotlib), SQL, RStudio, Looker, Tableau, Microsoft Excel (Pivot Tables, VLOOKUP, VBA), Java, HTML/CSS, and Amplide.
 
-Hugo makes use of a variety of open source projects including:
+Click [here](/resume.pdf) to view my resume.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I grew up in New York City, where I was given the opportunity to be exposed to diverse culture, food, and liftstyle. Consequently, cultural diversity, awareness, and appreciation are values that help shape who I am and the work that I put into world. As we transition to remote work due to COVID, I have an American Eskimo name Tofu who loves attention and accompanies me during work!
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+![Tofu w:250](/t.JPG)
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Lastly, I am an introvert who loves to make friends! Feel free to reach out and connect!
+ 
