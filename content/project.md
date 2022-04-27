@@ -29,4 +29,4 @@ the Product Marketing team
 
 ## ORIE 4580: Simulation Modeling and Analysis (Fall 2021)
 
-> ***Holicopter Optimization Stimulation***
+> ***Holicopter Optimization Stimulation***: Optimized the response time of helicopter emergency transportations in Upstate New York with a simulation model of the varying helicopter locations and number of helicopters employed
