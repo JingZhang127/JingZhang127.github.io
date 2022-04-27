@@ -1,4 +1,4 @@
-baseURL = "https://jingzhang127.github.io/"
+baseURL = "http://www.jingzhang.example.com"
 title = "Jing Zhang"
 theme = "hugo-coder"
 languageCode = "en"
@@ -143,4 +143,3 @@ url = "interests/"
 name = "Contact Me"
 weight = 5
 url = "contact/"
-
